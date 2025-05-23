@@ -1,0 +1,47 @@
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup e temporários
+*.bak
+*.tmp
+*.swp
+*~
+
+# Arquivos Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos de log
+*.log
+
+# Pastas comuns de build
+build/
+dist/
+
+# Arquivos de upload para ESP32
+*.uf2
+*.bin
+
+# Arquivos do Thonny IDE
+.thonny/
+*.mpy-cross
+*.mpy
+
+# Pastas virtuais Python
+venv/
+.env/
+.venv/
+
+# Ignore arquivos de simulação (Wokwi, etc)
+*.json
+*.svg
+
+# Arquivos de configuração pessoal do VSCode
+.vscode/
+
+
+# Ignorar a pasta de aulas
+aula/
