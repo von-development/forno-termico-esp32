@@ -55,13 +55,5 @@ O sistema permite:
 
 ## Desenvolvimento
 
-Projeto desenvolvido no âmbito da disciplina de Instrumentação Eletrotécnica Aplicada (IEA) 2022-2023, atualizado em 2024-2025.
+Projeto desenvolvido no âmbito da disciplina de Instrumentação Eletrotécnica Aplicada (IEA).
 
-## Autores
-
-- H. Ribeiro (2024-2025)
-- A. Borges (2022-2023)
-
-## Licença
-
-Este projeto é parte do trabalho acadêmico do IEA.
